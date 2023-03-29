@@ -1,0 +1,185 @@
+{
+    "MenuData":[
+      {
+          "id":1,
+          "title":"Home",
+          "url":"/",
+          "cName":"nav-links",
+          "icon":"fa-solid fa-house-user"
+      },
+      {
+          "id":2,
+          "title":"Classes",
+          "url":"/Classes",
+          "cName":"nav-links",
+          "icon":"fa-sharp fa-solid fa-book"
+      },
+      {
+          "id":3,
+          "title":"References",
+          "url":"/References",
+          "cName":"nav-links",
+          "icon":"fa-solid fa-play"
+      },
+      {
+          "id":4,
+          "title":"Coaching_Centre",
+          "url":"/Ccentre",
+          "cName":"nav-links",
+          "icon":"fa-solid fa-person-chalkboard"
+      },
+      {
+          "id":5,
+          "title":"Contact Us",
+          "url":"/ContactUs",
+          "cName":"nav-links",
+          "icon":"fa-sharp fa-solid fa-phone"
+      },
+      {
+          "id":6,
+          "title":"Login",
+          "url":"#",
+          "cName":"nav-links-mobile"
+      }
+   ],
+    "classes":[
+      {
+          "id":1,
+          "title" :"CLASS-1",
+          "text" :"Please Visit Subject section for class-1 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":2,
+          "title":"CLASS-2",
+          "text":"Please Visit Subject section for class-2 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":3,
+          "title":"CLASS-3",
+          "text":"Please Visit Subject section for class-3 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":4,
+          "title":"CLASS-4",
+          "text":"Please Visit Subject section for class-4 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":5,
+          "title":"CLASS-5",
+          "text":"Please Visit Subject section for class-5 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":6,
+          "title":"CLASS-6",
+          "text":"Please Visit Subject section for class-6 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":7,
+          "title":"CLASS-7",
+          "text":"Please Visit Subject section for class-7 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":8,
+          "title":"CLASS-8",
+          "text":"Please Visit Subject section for class-8 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":9,
+          "title":"CLASS-9",
+          "text":"Please Visit Subject section for class-9 and you can choose your subjects as per your Board"
+      },
+      {
+          "id":10,
+          "title":"CLASS-10",
+          "text":"Please Visit Subject section for class-10 and you can choose your subjects as per your Board"
+      }
+   ],
+    "tutors":[
+      {
+        "id":1,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      },
+      {
+        "id":2,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      },
+      {
+        "id":3,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      },
+      {
+        "id":4,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      },
+      {
+        "id":5,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      },
+      {
+        "id":6,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      },
+      {
+        "id":7,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      },
+      {
+        "id":8,
+        "img":"tutor1",
+        "name":"Kalam Sir",
+        "profession":"Mathmetics tutor",
+        "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      }
+   ],
+    "reference": [
+      {
+          "id":1,
+          "name": "Rishi Sunak",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.",
+          "address": "Delhi,India",
+          "img": "refimg"
+      },
+      {
+          "id":2,
+          "name": "Narendra Modi",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.",
+          "address": "Odisha,India",
+          "img": "refimg"
+      },
+      {
+          "id":3,
+          "name": "Steve jobs",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.",
+          "address": "Newyork",
+          "img": "refimg"
+      },
+      {
+          "id":4,
+          "name": "Kevin Peterson",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.",
+          "address": "London",
+          "img": "refimg"
+      }
+   ]
+  }
